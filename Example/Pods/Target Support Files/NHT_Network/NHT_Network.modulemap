@@ -1,0 +1,6 @@
+framework module NHT_Network {
+  umbrella header "NHT_Network-umbrella.h"
+
+  export *
+  module * { export * }
+}

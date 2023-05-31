@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.7.1)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LoadingView_NHT (0.1.0)
+  - NHT_Network (0.1.0):
+    - Alamofire
+    - LoadingView_NHT
+    - NHT_SomeSupport
+  - NHT_SomeSupport (1.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - NHT_Network (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FBSnapshotTestCase
+    - LoadingView_NHT
+    - NHT_SomeSupport
+
+EXTERNAL SOURCES:
+  NHT_Network:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LoadingView_NHT: e83fdc0bc4bce4e95038befe679d9317ae1754c7
+  NHT_Network: 327aa4fc895de016ed04bf52fc464d3202e7e557
+  NHT_SomeSupport: 6a136f9a7ac61e79d91396b566bba51642722d2d
+
+PODFILE CHECKSUM: 10270d95693c98479636e6f12ff1c05f8406d9f2
+
+COCOAPODS: 1.12.0

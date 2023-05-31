@@ -1,0 +1,33 @@
+{
+  "name": "NHT_Network",
+  "version": "0.1.0",
+  "summary": "swift 网络请求方法.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MasterChatting/NHT_Network.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NHT": "NHT"
+  },
+  "source": {
+    "git": "https://github.com/MasterChatting/NHT_Network.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NHT_Network/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "LoadingView_NHT": [
+
+    ],
+    "NHT_SomeSupport": [
+
+    ]
+  }
+}

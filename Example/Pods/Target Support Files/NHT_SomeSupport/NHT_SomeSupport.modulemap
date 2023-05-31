@@ -1,0 +1,6 @@
+framework module NHT_SomeSupport {
+  umbrella header "NHT_SomeSupport-umbrella.h"
+
+  export *
+  module * { export * }
+}

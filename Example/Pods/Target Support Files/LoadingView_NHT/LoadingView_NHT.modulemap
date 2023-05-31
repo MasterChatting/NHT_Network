@@ -1,0 +1,6 @@
+framework module LoadingView_NHT {
+  umbrella header "LoadingView_NHT-umbrella.h"
+
+  export *
+  module * { export * }
+}
