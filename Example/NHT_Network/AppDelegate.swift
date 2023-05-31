@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  NHT_Network
 //
-//  Created by NHT18610866107@163.com on 05/31/2023.
-//  Copyright (c) 2023 NHT18610866107@163.com. All rights reserved.
+//  Created by NHT@163.com on 05/31/2023.
+//  Copyright (c) 2023 NHT@163.com. All rights reserved.
 //
 
 import UIKit

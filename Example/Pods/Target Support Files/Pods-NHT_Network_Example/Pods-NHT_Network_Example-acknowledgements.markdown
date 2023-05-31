@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 ## LoadingView_NHT
 
-Copyright (c) 2022 NHT <NHT18610866107@163.com>
+Copyright (c) 2022 NHT <NHT@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -49,7 +49,7 @@ THE SOFTWARE.
 
 ## NHT_Network
 
-Copyright (c) 2023 NHT18610866107@163.com <NHT18610866107@163.com>
+Copyright (c) 2023 NHT@163.com <NHT@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -72,7 +72,7 @@ THE SOFTWARE.
 
 ## NHT_SomeSupport
 
-Copyright (c) 2023 NHT18610866107@163.com <NHT18610866107@163.com>
+Copyright (c) 2023 NHT@163.com <NHT@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

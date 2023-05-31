@@ -1,6 +1,6 @@
 # NHT_Network
 
-[![CI Status](https://img.shields.io/travis/NHT18610866107@163.com/NHT_Network.svg?style=flat)](https://travis-ci.org/NHT18610866107@163.com/NHT_Network)
+[![CI Status](https://img.shields.io/travis/NHT@163.com/NHT_Network.svg?style=flat)](https://travis-ci.org/NHT@163.com/NHT_Network)
 [![Version](https://img.shields.io/cocoapods/v/NHT_Network.svg?style=flat)](https://cocoapods.org/pods/NHT_Network)
 [![License](https://img.shields.io/cocoapods/l/NHT_Network.svg?style=flat)](https://cocoapods.org/pods/NHT_Network)
 [![Platform](https://img.shields.io/cocoapods/p/NHT_Network.svg?style=flat)](https://cocoapods.org/pods/NHT_Network)
@@ -22,7 +22,7 @@ pod 'NHT_Network'
 
 ## Author
 
-NHT18610866107@163.com, NHT18610866107@163.com
+NHT@163.com, NHT@163.com
 
 ## License
 
